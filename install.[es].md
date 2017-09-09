@@ -6,7 +6,7 @@ Primero hay que averiguar si php es *ts* o *nts*. para ello hay que crear un arc
 Una vez guardado, hay que ejecutar el archivo:
 > http://localhost/phpinfo.php
 
-Hay que buscar la variable **Thread Safety**, si está en enabled, entonces php es ts, sino (si está en disabled) estonces en nts.
+Hay que buscar la variable **Thread Safety**, si está en enabled, entonces php es *ts*, sino (si está en disabled) estonces en *nts*.
 
 Una vez sabiendo esto, hay que copiar el driver a la carpeta ext de php, algunos ejemplos:
 ```
@@ -15,7 +15,7 @@ Una vez sabiendo esto, hay que copiar el driver a la carpeta ext de php, algunos
  C:\xampp\php\ext\
 ```
 
-Hay que copiar y pegar ambos dll depediendo la versión de php en uso. Una vez que las dll han sido copiadas, hay que abrir con cualquier editor el archivo **php.ini**
+Hay que copiar y pegar ambos dll **depediendo la versión de php** en uso. Una vez que las dll han sido copiadas, hay que abrir con cualquier editor el archivo **php.ini**
 ```
  C:\php\php.ini
  C:\appsrv\php\php.ini
