@@ -1,3 +1,6 @@
+### Instalación de la extension SQLServ en php
+---
+
 Primero hay que averiguar si php es *ts* o *nts*. para ello hay que crear un archivo php llamado *phpinfo* y añadir dentro:
 ```php
 <?php phpinfo(); ?>
