@@ -6,7 +6,7 @@ First we have to find out if php is *ts* or *nts*. to do this, you have to creat
 Once saved, run the file:
 > http://localhost/phpinfo.php
 
-You have to look for the variable **Thread Safety**, if it is enabled, then php is ts, otherwise (if it is disabled) then nts.
+You have to look for the variable **Thread Safety**, if it is enabled, then php is *ts*, otherwise (if it is disabled) then *nts*.
 
 Once you know this, copy the driver to the ext php folder, some examples:
 ```
@@ -15,7 +15,7 @@ C:\appsrv\php\ext\
 C:\xampp\php\ext\
 ```
 
-Both dlls must be copied and pasted depending on the version of php in use. Once the dlls have been copied, open the **php.ini** file with any editor
+Both dlls must be copied and pasted **depending on the version of php** in use. Once the dlls have been copied, open the **php.ini** file with any editor
 ```
 C:\php\php.ini
 C:\appsrv\php\php.ini
