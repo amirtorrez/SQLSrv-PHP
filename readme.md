@@ -1,6 +1,4 @@
-### SQLServ php extension
-
-
+### SQLServ php extension<br>
 
 [Descarga](https://github.com/amirtorrez/SQLSrv-PHP/archive/master.zip) o clona el repositorio
 ```
