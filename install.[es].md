@@ -1,5 +1,5 @@
 Primero hay que averiguar si php es ts o nts. para ello hay que crear un archivo php llamado phpinfo y añadir dentro:
-```php
+```
 <?php phpinfo(); ?>
 ```
 
@@ -15,7 +15,9 @@ C:\xampp\php\ext\
 
 Hay que copiar y pegar ambos dll depediendo la versión de php en uso. Una vez que las dll han sido copiadas, hay que abrir con cualquier editor el archivo php.ini
 > C:\php\php.ini
+
 > C:\appsrv\php\php.ini
+
 > C:\xampp\php\php.ini
 
 Una vez abierto, pegar:
