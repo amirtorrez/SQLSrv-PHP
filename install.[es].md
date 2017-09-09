@@ -1,5 +1,5 @@
 Primero hay que averiguar si php es ts o nts. para ello hay que crear un archivo php llamado phpinfo y añadir dentro:
-<?php phpinfo(); ?>
+```<?php phpinfo(); ?>```
 
 Una vez guardado, hay que ejecutar el archivo:
 http://localhost/phpinfo.php
@@ -17,8 +17,8 @@ C:\appsrv\php\php.ini
 C:\xampp\php\php.ini
 
 Una vez abierto, pegar:
-extension=php_sqlsrv.dll
-extension=php_pdo_sqlsrv.dll
+```extension=php_sqlsrv.dll
+extension=php_pdo_sqlsrv.dll```
 
 Nota: De preferencia pega esas dos lineas debajo de las Windows Extensions.
 
