@@ -28,9 +28,9 @@ extension=php_sqlsrv.dll
 extension=php_pdo_sqlsrv.dll
 ```
 
-Note: Preferably paste these two lines under Windows Extensions.
+**Note: Preferably paste these two lines under Windows Extensions.**
 
-**Now all that's left is to save the file and restart apache to start using SQL through PDO.**
+Now all that's left is to save the file and restart apache to start using SQL through PDO.
 
 * http://php.net/manual/en/book.pdo.php
 * http://php.net/manual/en/ref.pdo-sqlsrv.connection.php
