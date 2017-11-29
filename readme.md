@@ -25,5 +25,5 @@ git clone https://github.com/amirtorrez/SQLSrv-PHP.git
 
 
 English PDO documentation
-* http://php.net/manual/es/book.pdo.php
-* http://php.net/manual/es/ref.pdo-sqlsrv.connection.php
+* http://php.net/manual/en/book.pdo.php
+* http://php.net/manual/en/ref.pdo-sqlsrv.connection.php
