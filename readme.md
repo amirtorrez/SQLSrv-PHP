@@ -4,7 +4,7 @@
 [Descarga](https://gitlab.com/amirtorrez/SQLSrv-PHP/-/archive/master/SQLSrv-PHP-master.zip) o clona el repositorio
 ```
 cd Descargas
-git clone https://github.com/amirtorrez/SQLSrv-PHP.git
+git clone https://gitlab.com/amirtorrez/SQLSrv-PHP.git
 ```
 
 [Guía de instalación en español](https://gitlab.com/amirtorrez/SQLSrv-PHP/blob/master/install.[es].md).
@@ -18,7 +18,7 @@ Documentación de PDO en español
 [Download](https://gitlab.com/amirtorrez/SQLSrv-PHP/-/archive/master/SQLSrv-PHP-master.zip) ot clone the repository
 ```
 cd Downloads
-git clone https://github.com/amirtorrez/SQLSrv-PHP.git
+git clone https://gitlab.com/amirtorrez/SQLSrv-PHP.git
 ```
 
 [Installation english guide](https://gitlab.com/amirtorrez/SQLSrv-PHP/blob/master/install.[en].md).
