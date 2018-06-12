@@ -1,7 +1,7 @@
 ### SQLServ php extension
 ---
 
-[Descarga](https://gitlab.com/amirtorrez/SQLSrv-PHP/archive/master.zip) o clona el repositorio
+[Descarga](https://gitlab.com/amirtorrez/SQLSrv-PHP/-/archive/master/SQLSrv-PHP-master.zip) o clona el repositorio
 ```
 cd Descargas
 git clone https://github.com/amirtorrez/SQLSrv-PHP.git
@@ -15,7 +15,7 @@ Documentación de PDO en español
 
 ---
 
-[Download](https://gitlab.com/amirtorrez/SQLSrv-PHP/archive/master.zip) ot clone the repository
+[Download](https://gitlab.com/amirtorrez/SQLSrv-PHP/-/archive/master/SQLSrv-PHP-master.zip) ot clone the repository
 ```
 cd Downloads
 git clone https://github.com/amirtorrez/SQLSrv-PHP.git
